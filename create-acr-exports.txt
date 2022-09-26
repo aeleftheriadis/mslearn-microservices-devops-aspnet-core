@@ -1,0 +1,9 @@
+export ESHOP_RG=eshop-learn-rg
+export ESHOP_LOCATION=westeurope
+export ESHOP_AKSNAME=eshop-learn-aks
+export ESHOP_LBIP=20.23.150.5
+export ESHOP_ACRNAME=eshoplearn20220923061725720
+export ESHOP_REGISTRY=eshoplearn20220923061725720.azurecr.io
+export ESHOP_ACRUSER=eshoplearn20220923061725720
+export ESHOP_ACRPASSWORD=MjtTR2KuWUEV/knitPTqf=gj=dmCeCNH
+export ESHOP_IDTAG=20220923061725720
